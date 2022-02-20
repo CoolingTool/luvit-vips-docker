@@ -1,5 +1,5 @@
 return {
-	name = "CoolingTool/Bottles",
+	name = "CoolingTool/luvit-vips-docker",
 	version = "0.0.1",
 	dependencies = {
 		"creationix/coro-http",
